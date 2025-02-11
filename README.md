@@ -8,7 +8,7 @@
 
 1. Click -> Add-on Store under Settings - Addons.
 2. Click -> three dots -> Repositories.
-3. Copy https://github.com/evcc-io/hassio-addon Click -> Add
+3. Copy https://github.com/hcanIngo/hassio-addon Click -> Add
 4. Reload the WebSite (CTRL+R or CTRL+F5 or CTRL+Fn+F5)
 5. Find the "evcc" add-on and click it.
 6. Click on the "INSTALL" button.
